@@ -1,0 +1,7 @@
+map_name: world_war_ii_v5_1942
+games:
+- game_name: WW2v5-Maintenance Costs
+  file_name: WW2v5-Maintenance.xml
+- game_name: WW2v5-Build Caps
+  file_name: WW2v5-BuildCaps.xml
+version: 0
