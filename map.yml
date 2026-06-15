@@ -1,4 +1,4 @@
-map_name: world_war_ii_v5_1942
+map_name: ww2v5_variants
 games:
 - game_name: WW2v5-Maintenance Costs
   file_name: WW2v5-Maintenance.xml
